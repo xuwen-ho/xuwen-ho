@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hey there 👋👋
+- 📖 I'm a Year 2 **Computer Science** major studying at the National University of Singapore
+- 🔭 I’m passionate about **Software Engineering** and **AI/ML**
+- 📫 Reach out at xuwen.ho@u.nus.edu or [LinkedIn](https://www.linkedin.com/in/xuwen-ho/)!
 <!--
 **xuwen-ho/xuwen-ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
