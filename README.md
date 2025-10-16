@@ -1,5 +1,5 @@
 ### Hey there 👋👋
-- 📖 I'm a Year 3 **Computer Science** major studying at the National University of Singapore
+- 📖 I'm a Year 4 **Computer Science** major studying at the National University of Singapore
 - 🔭 I’m passionate about **Software Engineering** and **AI/ML**
 - 📫 Reach out at xuwen.ho@u.nus.edu or [LinkedIn](https://www.linkedin.com/in/xuwen-ho/)!
 <!--
